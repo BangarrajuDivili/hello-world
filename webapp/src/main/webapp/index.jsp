@@ -16,10 +16,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="email2"><b>Enter Email2</b></label>
+<%--    <label for="email2"><b>Enter Email2</b></label>
     <input type="text" placeholder="Enter Email2" name="email2" id="email2" required>
     <br>
-
+    --%>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
